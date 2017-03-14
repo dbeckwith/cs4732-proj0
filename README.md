@@ -2,6 +2,8 @@
 
 by [Daniel Beckwith](https://github.com/dbeckwith)
 
+[Demo](https://youtu.be/pL4t0htA32s)
+
 ## Installation
 
 First, make sure Python 3.5 is installed. Then, use `pip` to install the dependencies:
