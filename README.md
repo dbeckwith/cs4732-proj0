@@ -12,10 +12,10 @@ First, make sure Python 3.5 is installed. Then, use `pip` to install the depende
 pip install -r requirements.txt
 ```
 
-This will install the [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5) and [PyOpenGL](http://pyopengl.sourceforge.net/) packages. If you're on Windows and `pip` can't install the packages, you may have to download the appropriate wheel files from [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/) and install them using `pip`:
+This will install the [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5), [PyOpenGL](http://pyopengl.sourceforge.net/), and [PyQt3D](https://www.riverbankcomputing.com/software/pyqt3d/intro) packages. If you're on Windows and `pip` can't install some of the packages, you may have to download the appropriate wheel files from [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/) and install them using `pip`:
 
 ```bash
-pip install path/to/wheel1 path/to/wheel2
+pip install path/to/wheel1 path/to/wheel2 ...
 ```
 
 ## Usage
