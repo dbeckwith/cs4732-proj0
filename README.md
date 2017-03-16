@@ -18,6 +18,8 @@ This will install the [PyQt5](https://www.riverbankcomputing.com/software/pyqt/d
 pip install path/to/wheel1 path/to/wheel2 ...
 ```
 
+You may want to do this in a [Virtual Environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) if you don't have administrative privilages.
+
 ## Usage
 
 From the project root, run the python module with the help option to see its usage:
